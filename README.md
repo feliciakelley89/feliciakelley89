@@ -7,4 +7,4 @@
 
 feliciakelley89/feliciakelley89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
+[![MSBuild](https://github.com/feliciakelley89/feliciakelley89/actions/workflows/msbuild.yml/badge.svg?branch=feliciakelley89-patch-1&event=deployment_status)](https://github.com/feliciakelley89/feliciakelley89/actions/workflows/msbuild.yml)
